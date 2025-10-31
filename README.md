@@ -6,7 +6,7 @@ I used a static Hotstar clone project as the source code and implemented a compl
 
 ⚙️ **Workflow**
 
-Source Code(github): Static Hotstar web files stored in GitHub.<br>                     
+Source Code(github): Static Hotstar web files stored in GitHub.<br>                   
 Build(maven): Packaged using Maven to generate a .war file.<br>
 Code Quality Check(sonarqube): Integrated with SonarQube for static code analysis.<br>
 Artifact uploading(nexus): Uploaded the generated .war file to Nexus Artifactory.<br>
@@ -20,13 +20,14 @@ Deployment(tomcat-server): Automatically deployed the artifact to a Tomcat serve
 5. Pipeline stage view
 
 Sonarqube<br>
-<img width="903" height="283" alt="image" src="https://github.com/user-attachments/assets/a2a112e6-212a-40d7-9ba4-933a76413403" />
+<img width="903" height="283" alt="image" src="https://github.com/user-attachments/assets/a2a112e6-212a-40d7-9ba4-933a76413403" />  
 Nexus<br>
-<img width="903" height="244" alt="image" src="https://github.com/user-attachments/assets/4ff4806a-f409-4924-ba80-ceaff7a3ad2e" />
+<img width="903" height="244" alt="image" src="https://github.com/user-attachments/assets/4ff4806a-f409-4924-ba80-ceaff7a3ad2e" />  
 Tomcat server-hotstar clone<br>
-<img width="903" height="382" alt="image" src="https://github.com/user-attachments/assets/8de54a38-8b63-4f31-b13e-9288fff71ddc" />
+<img width="903" height="382" alt="image" src="https://github.com/user-attachments/assets/8de54a38-8b63-4f31-b13e-9288fff71ddc" />  
 Jenkins Pipeline<br>
-<img width="578" height="232" alt="image" src="https://github.com/user-attachments/assets/5f3be01e-4ff2-4d12-bf22-b38c5f374ce9" />
+<img width="903" height="363" alt="image" src="https://github.com/user-attachments/assets/ffc107fc-1460-41f7-97bf-3406ad52f53a" />  
+  
 
 
 
